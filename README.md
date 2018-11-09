@@ -18,5 +18,7 @@
 
 ## 参考
 
-［javascript高级程序设计第三版］<br/>
- [[冴羽大大的博客](https://github.com/mqyqingfeng/Blog)]
+1. ［javascript高级程序设计第三版]
+2. [[冴羽大大的博客](https://github.com/mqyqingfeng/Blog)]
+
+ 
