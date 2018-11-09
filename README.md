@@ -6,7 +6,7 @@
 
 ## 回顾系列目录
 
-1. [回顾系列之变量、作用域名和内存](https://github.com/xuweikang/jsBasicReview/issues/1)
+1. [回顾系列之变量、作用域和内存](https://github.com/xuweikang/jsBasicReview/issues/1)
 2. [回顾系列之引用类型]()
 3. [回顾系列之面向对象设计]()
 4. [回顾系列之递归、闭包、作用域]()
