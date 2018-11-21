@@ -7,10 +7,10 @@
 ## 回顾系列目录
 
 1. [回顾系列之变量、作用域和内存](https://github.com/xuweikang/jsBasicReview/issues/1)
-2. [回顾系列之引用类型]()
-3. [回顾系列之面向对象设计]()
-4. [回顾系列之递归、闭包、作用域]()
-5. [回顾系列之事件处理]()
+2. [回顾系列之引用类型](https://github.com/xuweikang/jsBasicReview/issues/2)
+3. [回顾系列之面向对象设计](https://github.com/xuweikang/jsBasicReview/issues/3)
+4. [回顾系列之递归、闭包、作用域](https://github.com/xuweikang/jsBasicReview/issues/4)
+5. [回顾系列之事件处理](https://github.com/xuweikang/jsBasicReview/issues/1)
 6. [回顾系列之Ajax与comet]()
 7. [回顾系列之高级处理策略]()
 
