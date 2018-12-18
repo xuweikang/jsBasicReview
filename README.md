@@ -10,9 +10,9 @@
 2. [回顾系列之引用类型](https://github.com/xuweikang/jsBasicReview/issues/2)
 3. [回顾系列之面向对象设计](https://github.com/xuweikang/jsBasicReview/issues/3)
 4. [回顾系列之递归、闭包、作用域](https://github.com/xuweikang/jsBasicReview/issues/4)
-5. [回顾系列之事件处理](https://github.com/xuweikang/jsBasicReview/issues/1)
-6. [回顾系列之Ajax与comet]()
-7. [回顾系列之高级处理策略]()
+5. [回顾系列之事件处理](https://github.com/xuweikang/jsBasicReview/issues/5)
+6. [回顾系列之Ajax与comet](https://github.com/xuweikang/jsBasicReview/issues/6)
+7. [回顾系列之高级处理策略](https://github.com/xuweikang/jsBasicReview/issues/7)
 
 ## 专题系列目录
 1. [专题系列之IEEE-75464]()
@@ -22,6 +22,6 @@
 ## 参考
 
 1. [javascript高级程序设计第三版]
-2. [冴羽大大的博客](https://github.com/mqyqingfeng/Blog)
+2. [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 
  
